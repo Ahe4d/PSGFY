@@ -13,3 +13,5 @@ Added string table decryption
 
 Changed up the script opcodes to make it compatible with Blockland's DSO version
 
+## how do use
+```python2.7 parse_dso.py (file) ```
