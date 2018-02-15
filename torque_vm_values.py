@@ -1,4 +1,3 @@
-# credit to metario
 # TorqueVM Opcodes:
 OPCODES = {
     83:      "OP_FUNC_DECL",
